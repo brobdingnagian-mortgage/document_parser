@@ -1,4 +1,4 @@
-# PDFs-TextExtract
+# Document Parser (aka PDF Parser)
 Python Multiple and Large PDF Documents Text Extraction - Python 3.7
 ![Logo](XPDF.jpg)
 
