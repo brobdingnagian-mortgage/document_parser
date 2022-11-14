@@ -19,4 +19,4 @@ That's why, **PDFs-TextExtract** project developed to **extract text from multip
 ## Usage 
 - **Step 1:** Complete ** Accomplish all configuration steps as described in our internal SaaS documentation platform
 - **Step 2:** Execute ** Then test out the API per the documentation in our internal SaaS documentation platform
-- **Step 3:** Example ** <code>curl https://brobdingnagian-mortgage.com/api/v1/{API KEY}/users/all </code> to see all customers.
+- **Step 3:** Example ** <code>curl 'https://brobdingnagian-mortgage.com/api/v1/{API KEY}/users/all' </code> to see all customers.
